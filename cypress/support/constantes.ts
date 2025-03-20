@@ -3,5 +3,5 @@ export const e2e = {
     SUBTITULO: '[data-cy="oWTzO5"]',
     CAMPO_AGREGAR_ACTIVIDAD: '[data-cy="oWTzO6"]',
     BOTON_AGREGAR: '[data-cy="oWTzO7"]',
-    TEXT_AREA: '[data-cy="oWTzO8"]',
+    TEXT_AREA: '[data-cy="oWTzO8"] span',
 }
